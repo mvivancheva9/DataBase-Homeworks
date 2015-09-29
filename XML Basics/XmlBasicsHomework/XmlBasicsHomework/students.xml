@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet href="students.xsl" type="text/xsl" ?>
+<students xmlns:students="urn:students-DataBase-course">
+  <student>
+    <name>Dragan Draganov</name>
+    <sex>Male</sex>
+    <birthDate>12.12.1989</birthDate>
+    <phone>+2222222222</phone>
+    <email>gradan@abv.bg</email>
+    <course>DataBase</course>
+    <specialty>Software Engineering</specialty>
+    <facultyNumber>1000454545</facultyNumber>
+    <exams>
+      <exam>
+        <examName>Database-basics</examName>
+        <tutor>Gosho</tutor>
+        <score>50</score>
+      </exam>
+      <exam>
+        <examName>Database-advanced</examName>
+        <tutor>Pesho</tutor>
+        <score>40</score>
+      </exam>
+    </exams>
+  </student>
+  
+  <student>
+    <name>Draganka Graganova</name>
+    <sex>Female</sex>
+    <birthDate>11.11.1989</birthDate>
+    <phone>+333333333</phone>
+    <email>draganka@abv.bg</email>
+    <course>JavaScript</course>
+    <specialty>Front-End</specialty>
+    <facultyNumber>100040040</facultyNumber>
+    <exams>
+      <exam>
+        <examName>JavaScript - Basics</examName>
+        <tutor>Gosho</tutor>
+        <score>60</score>
+      </exam>
+      <exam>
+        <examName>JavaScript - Advanced</examName>
+        <tutor>Pesho</tutor>
+        <score>20</score>
+      </exam>
+    </exams>
+  </student>
+</students>
