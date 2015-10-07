@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<catalogue>
+  <album>
+    <name>The Wall</name>
+    <artist>Pink Floyd</artist>
+    <year>1979</year>
+    <producer>Harvest, EMI</producer>
+    <price>20.00</price>
+    <songs>
+      <song>
+        <title>Another brick in the waall</title>
+        <duration>3.59</duration>
+      </song>
+      <song>
+        <title>Goodbye Blue Sky</title>
+        <duration>2.45</duration>
+      </song>
+      <song>
+        <title>Empty Spaces</title>
+        <duration>2.10</duration>
+      </song>
+    </songs>
+  </album>
+  <album>
+    <name>Hysteria</name>
+    <artist>Def Leppard</artist>
+    <year>1987</year>
+    <producer>Def Leppard</producer>
+    <price>20.00</price>
+    <songs>
+      <song>
+        <title>Women</title>
+        <duration>5.42</duration>
+      </song>
+      <song>
+        <title>Love Bites</title>
+        <duration>5.46</duration>
+      </song>
+      <song>
+        <title>Pour Some Sugar on Me</title>
+        <duration>4.27</duration>
+      </song>
+    </songs>
+  </album>
+</catalogue>

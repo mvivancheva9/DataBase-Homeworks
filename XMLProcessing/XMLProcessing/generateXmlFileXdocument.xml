@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<dir path="D:\Telerik Academy Courses\DataBase\DataBase-Homeworks\XMLProcessing\XMLProcessing">
+  <dir path="D:\Telerik Academy Courses\DataBase\DataBase-Homeworks\XMLProcessing\XMLProcessing\bin">
+    <dir path="D:\Telerik Academy Courses\DataBase\DataBase-Homeworks\XMLProcessing\XMLProcessing\bin\Debug">
+      <file name="XMLProcessing" ext=".exe" />
+      <file name="XMLProcessing.exe" ext=".config" />
+      <file name="XMLProcessing" ext=".pdb" />
+      <file name="XMLProcessing.vshost" ext=".exe" />
+      <file name="XMLProcessing.vshost.exe" ext=".config" />
+    </dir>
+    <dir path="D:\Telerik Academy Courses\DataBase\DataBase-Homeworks\XMLProcessing\XMLProcessing\bin\Release" />
+  </dir>
+  <dir path="D:\Telerik Academy Courses\DataBase\DataBase-Homeworks\XMLProcessing\XMLProcessing\obj">
+    <dir path="D:\Telerik Academy Courses\DataBase\DataBase-Homeworks\XMLProcessing\XMLProcessing\obj\Debug">
+      <dir path="D:\Telerik Academy Courses\DataBase\DataBase-Homeworks\XMLProcessing\XMLProcessing\obj\Debug\TempPE" />
+      <file name="DesignTimeResolveAssemblyReferencesInput" ext=".cache" />
+      <file name="TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92" ext=".cs" />
+      <file name="TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1" ext=".cs" />
+      <file name="TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3" ext=".cs" />
+      <file name="XMLProcessing.csproj.FileListAbsolute" ext=".txt" />
+      <file name="XMLProcessing.csprojResolveAssemblyReference" ext=".cache" />
+      <file name="XMLProcessing" ext=".exe" />
+      <file name="XMLProcessing" ext=".pdb" />
+    </dir>
+  </dir>
+  <dir path="D:\Telerik Academy Courses\DataBase\DataBase-Homeworks\XMLProcessing\XMLProcessing\Properties">
+    <file name="AssemblyInfo" ext=".cs" />
+  </dir>
+  <file name="album" ext=".xml" />
+  <file name="App" ext=".config" />
+  <file name="catalogue" ext=".xml" />
+  <file name="CatalogueXPath" ext=".cs" />
+  <file name="deletedCatalogues" ext=".xml" />
+  <file name="DOMParser" ext=".cs" />
+  <file name="LINQManipulations" ext=".cs" />
+  <file name="person" ext=".txt" />
+  <file name="person" ext=".xml" />
+  <file name="Start" ext=".cs" />
+  <file name="xmlDocument" ext=".xml" />
+  <file name="XMLProcessing" ext=".csproj" />
+  <file name="XmlReaderFile" ext=".cs" />
+</dir>
